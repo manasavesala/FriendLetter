@@ -1,0 +1,10 @@
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\bin\Debug\netcoreapp1.1\FriendLetter.deps.json
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\bin\Debug\netcoreapp1.1\FriendLetter.runtimeconfig.json
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\bin\Debug\netcoreapp1.1\FriendLetter.runtimeconfig.dev.json
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\bin\Debug\netcoreapp1.1\FriendLetter.dll
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\bin\Debug\netcoreapp1.1\FriendLetter.pdb
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp1.1\FriendLetter.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp1.1\FriendLetter.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp1.1\FriendLetter.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp1.1\FriendLetter.dll
+C:\Users\Murali Medisetty\Desktop\FriendLetter.Solution\FriendLetter\obj\Debug\netcoreapp1.1\FriendLetter.pdb
